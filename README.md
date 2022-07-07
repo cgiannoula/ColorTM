@@ -10,7 +10,7 @@ Please cite the following papers if you find this repository useful:
 Bibtex entries for citation:
 ```
 @inproceedings{Giannoula2018ISC,
-    author={Giannoula, Christina and Goumas, Georgios   and Koziris, Nectarios},
+    author={Giannoula, Christina and Goumas, Georgios and Koziris, Nectarios},
     title={{Combining HTM with RCU to Speed up Graph Coloring on Multicore Platforms}}, 
     year = {2018},
     booktitle={High Performance Computing},
@@ -21,7 +21,7 @@ Bibtex entries for citation:
 We point out next the repository structure and some important folders and files.<br> 
 The "ColorTM" includes the (unbalanced) ColorTM algorithm.<br>
 The "BalColorTM" includes the balanced BalColorTM algorithm.<br>
-The "inputs" directory includes a bash script to download matrix files (in mtx format) from the [Suite Sparse Matrix Collection](https://sparse.tamu.edu/).<br> 
+The "inputs" directory includes a bash script to download real-world graph files (in mtx format) from the [Suite Sparse Matrix Collection](https://sparse.tamu.edu/).<br> 
 
 ```
 .
