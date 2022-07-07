@@ -377,7 +377,7 @@ void graphColor(struct Graph *graph, int nthreads)
      * Print elapsed time.
      */
     double time_elapsed = timer_report_sec(wall_timer);
-    printf("Time elapsed: \t\t%lf \n", time_elapsed);
+    printf("Time elapsed in coloring (sec): \t\t%lf \n", time_elapsed);
 
     /*
      * Free structures
