@@ -1,7 +1,7 @@
 ## ColorTM: High-Performance and Balanced Parallel Graph Coloring on Multicore Platforms
 
 <p align="center">
-  <img width="486" height="414" src="https://github.com/cgiannoula/ColorTM/blob/main/images/ColorTM_Logo.png">
+  <img width="545" height="408" src="https://github.com/cgiannoula/ColorTM/blob/main/images/ColorTM_Logo.png">
 </p>
 
 ColorTM contains two parallel graph coloring algorithms for multicore platforms: (i) ColorTM: assigns colors to the vertices of the graph using multiple parallel threads and leveraging Hardware Transactional Memory (HTM), and (ii) BalColorTM: re-colors a subset of the vertices of the graph to produce color classes with almost the same sizes, i.e., having almost the same number of vertices assigned to each color class produced. Both algorithms are written in C programming language and can be used to color any arbitrary real-world graph.
