@@ -20,6 +20,18 @@ Bibtex entries for citation:
     booktitle={High Performance Computing},
 }
 ```
+```
+@article{giannoula2023high,
+  title={High-performance and balanced parallel graph coloring on multicore platforms},
+  author={Giannoula, Christina and Peppas, Athanasios and Goumas, Georgios and Koziris, Nectarios},
+  journal={The Journal of Supercomputing},
+  volume={79},
+  number={6},
+  pages={6373--6421},
+  year={2023},
+  publisher={Springer}
+}
+```
 
 ## Repository Structure
 We point out next the repository structure and some important folders and files.<br> 
